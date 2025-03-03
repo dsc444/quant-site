@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Darragh's Quant Portfolio: Welcome to my portfolio
 ---
 
